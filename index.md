@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Stake with us
 
-You can use the [editor on GitHub](https://github.com/gadost/stake2us/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are international hosting company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We know all about dedicated & cloud solutions
 
-### Markdown
+- fault tolerance & secure infrastructure
+- always-online admin teams
+- minimal comissions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# We participate
 
-# Header 1
-## Header 2
-### Header 3
+## Gravity-bridge
 
-- Bulleted
-- List
+5% commission , 100% uptime
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[gravityvaloper1yhdvjwpz3q00ruy9n4swngx6syufwa02qr8rpf](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1yhdvjwpz3q00ruy9n4swngx6syufwa02qr8rpf)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Mina
 
-### Jekyll Themes
+coming soon
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gadost/stake2us/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Minima
 
-### Support or Contact
+coming soon
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Althea
+
+coming soon
+
+## Cosmos
+
+coming soon
