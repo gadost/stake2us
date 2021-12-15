@@ -6,7 +6,7 @@ We know all about dedicated & cloud solutions
 
 - fault tolerance & secure infrastructure
 - always-online admin teams
-- minimal comissions
+- minimal commissions
 
 
 # We participate
