@@ -1,6 +1,6 @@
 # Stake to us
 
-We are international hosting company [amhost.net](amhost.net).
+We are international hosting company [amhost.net](https://amhost.net).
 
 We know all about dedicated & cloud solutions
 
